@@ -102,3 +102,5 @@ Automated reporting process, reducing manual work by 40%.
 Enabled data-backed pricing and inventory strategies for dealerships.
 
 6. Screenshots / Demos
+https://github.com/Mayuri-ai/Car-Sales-Analysis/blob/main/Car%20SalesDashboad_DetailsScreenshot.png
+https://github.com/Mayuri-ai/Car-Sales-Analysis/blob/main/Car%20Sales%20Dashboard_OverviewScreenshot.png
